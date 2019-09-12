@@ -6,4 +6,4 @@
 
 Технологии HTML, CSS, JS, GIT.
 
-https://avvarlamov.github.io/Validat/
+Ссылка: https://avvarlamov.github.io/Validat/
